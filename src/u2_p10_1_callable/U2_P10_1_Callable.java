@@ -1,6 +1,6 @@
 /*
  * Crea un programa Java, llámalo U2_P10_1_Callable para ejecutar desde Java los
- * procedimientos de subida salarial que has creado, hazlo para que se pueda ver que el
+ * procedimientos de subida salarial que has creado en HSQLDB, hazlo para que se pueda ver que el
  * procedimiento funciona.
  */
 package u2_p10_1_callable;
